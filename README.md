@@ -1,2 +1,2 @@
-# Github Practice
-- *practising github commands*
+## Github Practice
+- **practising github commands**
